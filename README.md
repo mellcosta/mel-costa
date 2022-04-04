@@ -1,10 +1,10 @@
-### Bom Dia, sou a Melissa Costa🦄🌈
+### Olá, sou a Melissa Costa🦄🌈
 
 
 -💻 Tenho trabalhado com front-end  
 -📚 No momento estou aprofundando os estudos sobre redes de computadores e JavaScript   
 -🙃 Sou uma novata, tenciono aprender o máximo possível   
--✨Aceito todos os tipos de ideias e sujestões que possam partilhar   
+-✨Aceito todos os tipos de ideias e sugestões que possam partilhar   
 -📫 Contacte-me pelo email: m3licosta@gmail.com 
 
 <!-- aqueles rectângulos de status 
