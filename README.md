@@ -24,13 +24,13 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
-    <!--O gif
-      Pode-se editar um gif 
-      no site japonês 
-      https://picrew.me/image_maker/338224-->
     
   <img align="right" alt="Mel-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_kMDeBCKa.png">
 </div>
+      <!--O gif
+      Pode-se editar um gif 
+      no site japonês 
+      https://picrew.me/image_maker/338224-->
   
   ## <!--hashtags formam um tracinho-->
   
