@@ -38,7 +38,7 @@
        https://dev.to/envoy_/150-badges-for-github-pnk tem imagens das redes, só copiar no src-->
   
  <div> 
-  <a href="wa.link/jgjl4g" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/qr/HPMKVPAC5YDWA1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://github.com/mel-costa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/melissa-costa-71300a209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2Df9dEU7Rl%2BWugKmLgwQfQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/m3licosta" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
