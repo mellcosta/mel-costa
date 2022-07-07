@@ -1,12 +1,5 @@
 ### Olá, sou a Melissa Costa🦄🌈
 
-
--💻 Tenho trabalhado com front-end  
--📚 No momento estou aprofundando os estudos sobre redes de computadores e JavaScript   
--🙃 Sou uma novata, tenciono aprender o máximo possível   
--✨Aceito todos os tipos de ideias e sugestões que possam partilhar   
--📫 Contacte-me pelo email: m3licosta@gmail.com 
-
 <!-- aqueles rectângulos de status 
      https://github.com/anuraghazra/github-readme-stats
      temas e outras cenas interessantes-->
