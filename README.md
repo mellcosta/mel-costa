@@ -1,5 +1,4 @@
-## Yahoo, I´m Melissa Costa🦄🌈
-# #Frontend Dev
+# #Frontend Dev 🦄🌈
 
 <!-- Imagens das linguagens utilizadas
        no devicon tem todas as linguagens-->
