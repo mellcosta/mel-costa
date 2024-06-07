@@ -2,7 +2,7 @@
   
   ##
   <!--Para colocar as redes sociais
-       https://dev.to/envoy_/150-badges-for-github-pnk tem imagens das redes, só copiar no src-->
+       https://dev.to/envoy_/150-badges-for-github-pnk tem imagens das redes, só fazer copy-past no src-->
   
  <div> 
   <a href="https://github.com/mellcosta" target="_blank">
