@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/melissa-costa-71300a209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2Df9dEU7Rl%2BWugKmLgwQfQ%3D%3D" target="_blank">
          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-        <a href="https://portfolio-mellcosta.vercel.app/" target="_blank">
+        <a href="https://my-portfolio-mellcostas-projects.vercel.app/" target="_blank">
                <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
         </a>
 </div>  
